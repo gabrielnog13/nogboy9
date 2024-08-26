@@ -1,16 +1,15 @@
-## Hi there 👋
+xd
 
-<!--
-**nogboy9/nogboy9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+about me:
+- he/him, brazilian, pt-br + eng + learning spanish.
+- systems analysis and development student.
+- working as data analyst intern.
+- cybersecurity researcher - focus on web application security.
+- quantum computing enthusiast.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+langs:
+> java, python, c/c++, sql, bash, powershell.
+
+os:
+> win and linux.
