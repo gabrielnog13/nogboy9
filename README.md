@@ -1,15 +1,17 @@
-xd
-
-about me:
-- he/him, brazilian, pt-br + eng + learning spanish.
-- systems analysis and development student.
-- working as data analyst intern.
-- cybersecurity researcher - focus on web application security.
-- quantum computing enthusiast.
-
-
-langs:
-> java, python, c/c++, sql, bash, powershell.
-
-os:
-> win and linux.
+ xd 
+      <br>
+      <br>
+      about me:<br>
+             - he/him, brazilian, pt-br + eng + learning spanish.<br>
+             - systems analysis and development student.<br>
+             - working as data analyst intern.<br>
+             - cybersecurity researcher - focus on web application security.<br>
+             - quantum computing enthusiast.<br>
+      <br>
+      <br>
+      langs:<br>
+          > java, python, c/c++, sql, bash, powershell.
+      <br>
+      <br>
+      os:<br>
+        > win and linux.
